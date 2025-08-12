@@ -20,7 +20,7 @@ Desenvolva um programa que:
     puts("Digite seu nome: ");
     scanf("%s", nome);
     puts("Digite sua idade: ");
-    scanf("%d", idade);
+    scanf("%d", &idade);
 
     printf("%s tem %d anos");
 
